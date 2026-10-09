@@ -1,4 +1,4 @@
-CSE 2101 – Data Structures
+CSE 2101 - Data Structures
 
 This repository contains my coursework, C programs, and practice implementations for the CSE 2101 – Data Structures course.
 
