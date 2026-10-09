@@ -1,48 +1,54 @@
-CSE Data Structures
+CSE 2101 – Data Structures
 
-Welcome to my CSE Data Structures repository!
+Welcome to my CSE 2101 – Data Structures repository!
 
-This repository contains my coursework, programming practice, algorithms, and implementations of fundamental data structures as part of my CSE 2101 – Data Structures course.
+This repository contains my coursework, class exercises, C programs, and implementations of fundamental data structures and algorithms.
 
-My goal is to develop strong problem-solving skills and understand data structures and algorithms through consistent coding practice using the C programming language.
+My goal is to strengthen my programming fundamentals and problem-solving skills through consistent practice using the C programming language.
 
-📚 Topics Covered
+---
 
-This repository is organized into different topics covered throughout my course.
+Course Topics
 
-- Array – Traversal, insertion, deletion, and multidimensional arrays
-- Searching – Linear search and binary search
-- Sorting – Bubble sort and other sorting algorithms
-- Linked List – Basic operations and implementations
-- Stack – Stack operations and applications
-- Queue – Queue operations and implementations
-- Tree – Fundamental tree concepts and algorithms
-- Graph – Basic graph concepts and algorithms
-- Other Topics – Additional data structures and algorithmic problems
+This repository is organized into the following topics:
 
-More topics and implementations will be added as I progress through the course.
+- Array — Traversal, insertion, deletion, and multidimensional arrays
+- Searching — Linear search and binary search
+- Sorting — Bubble sort and other sorting algorithms
+- Linked List — Insertion, deletion, and traversal
+- Stack — Basic operations and applications
+- Queue — Queue operations and implementations
+- Tree — Fundamental concepts and algorithms
+- Graph — Basic graph concepts and algorithms
+- Other Topics — Additional data structures and algorithms
 
-💻 Languages & Tools
+More programs and topics will be added as I progress through the course.
 
-- Programming Language: C
+---
+
+ Languages & Tools
+
+- Language: C
 - Code Editor: Visual Studio Code
 - Version Control: Git
-- Code Hosting: GitHub
+- Repository Hosting: GitHub
 
-🎯 Purpose of This Repository
+---
 
-This repository is part of my learning journey as a Computer Science and Engineering student. It helps me to:
+ Repository Goals
 
-- Practice implementing data structures and algorithms in C.
-- Understand how different operations work step by step.
-- Improve logical thinking and problem-solving abilities.
-- Keep my coursework and coding practice organized.
-- Track my progress and document what I learn.
+- Practice data structures and algorithms using C.
+- Understand the logic behind each operation.
+- Improve problem-solving and analytical thinking.
+- Organize coursework and programming exercises in one place.
+- Track my learning progress throughout the semester.
 
-📈 My Learning Journey
+---
 
-I believe that consistent practice and a clear understanding of programming fundamentals are essential for becoming a better programmer.
+My Learning Journey
 
-This repository will continue to grow as I explore new concepts, solve problems, and implement more algorithms using C.
+This repository represents my ongoing journey as a Computer Science and Engineering student.
 
-Learning step by step, coding consistently, and improving every day. 🚀
+I believe that consistent practice, patience, and a strong understanding of fundamentals are the keys to becoming a better programmer.
+
+Learning by doing. Improving through practice. Growing one program at a time. 
